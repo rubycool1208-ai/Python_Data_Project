@@ -83,7 +83,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of skills requested](Image\2_Likelihood_of_skills_requested.png)
+![Likelihood of skills requested](Image/2_Likelihood_of_skills_requested.png)
 
 Bar graph visualizing top 3 data roles and their top 5 skills associated with each.
 
@@ -115,7 +115,7 @@ plt.show()
 ```
 ### Result
 
-![3_Skill_Trend_2](Image\3_Skills_Trend_2.png)
+![3_Skill_Trend_2](Image/3_Skills_Trend_2.png)
 
 Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
@@ -149,7 +149,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 ### Result
-![Salary Analysis_1](Image\4_Salary_Analysis_1.png)
+![Salary Analysis_1](Image/4_Salary_Analysis_1.png)
 
 Box plot visualizing the salary distributions for the top 6 data job titles.
 
@@ -182,7 +182,7 @@ ax[1].legend().remove()
 plt.show()
 ```
 ### Result
-![Salary_Analysis_2](Image\4_Salary_Analysis_2.png)
+![Salary_Analysis_2](Image/4_Salary_Analysis_2.png)
 
 Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.
 
@@ -214,7 +214,7 @@ ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda y, pos: f'${int(y/1000)}K'
 plt.show()
 ```
 ### Result
-![5_Optimal skills](Image\5_Optimal_Skills_1.png)
+![5_Optimal skills](Image/5_Optimal_Skills_1.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.
 
@@ -240,7 +240,7 @@ plt.show()
 ```
 ### Result
 
-![Optimal_Skills_2](Image\5_Optimal_Skills_2.png)
+![Optimal_Skills_2](Image/5_Optimal_Skills_2.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
