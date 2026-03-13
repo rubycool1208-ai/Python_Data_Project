@@ -83,7 +83,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of skills requested](<Image\2_Likelihood of skills requested.png>)
+![Likelihood of skills requested](Image\2_Likelihood_of_skills_requested.png)
 
 Bar graph visualizing top 3 data roles and their top 5 skills associated with each.
 
